@@ -1,0 +1,168 @@
+#right {
+	width: 336px;
+	padding: 0;
+	border: none;
+	background-color: none;
+	font-size: 1.2em;
+}
+
+#right p {
+	font-size: 1em;
+	margin-top: 0.5em;
+	margin-bottom: 0.8em;
+	line-height: 1.4em;
+}
+
+#right div.box {
+	margin-bottom: 40px;
+}
+
+#right div.box h1 {
+	text-align: left;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #C94A00;
+	margin-top: 0.5em;
+	margin-bottom: 0.8em;
+}
+
+#right div.ads {
+	
+}
+
+#right div.ads h1 {
+	text-align: center;
+	font-size: 0.9em;
+	font-weight: normal;
+	color: #999;
+}
+
+#right div.top-stories {
+
+}
+
+#right div.top-stories ul {
+	list-style: none;
+	padding-left: 0;
+}
+#right div.top-stories ul li {
+	display: block;
+	margin: 0;
+	padding: 10px 0;	
+	border-bottom: 1px dotted #DDD;
+}
+#right div.top-stories ul li:first-child {
+	padding-top: 0;
+}
+	
+#right div.top-stories ul li a {
+	display: block;
+	font-weight: bold;
+	line-height: 1.4em;
+	margin-bottom: 5px;
+}
+
+#right div.top-stories ul li span {
+	color: #999;
+}
+
+#right div.member {
+	border: 1px solid #DDD;
+	-webkit-box-shadow: 2px 2px 5px #CCC;
+	-moz-box-shadow: 2px 2px 5px #CCC;
+	box-shadow: 2px 2px 5px #CCC;
+}
+
+#right div.member div.head {	
+	padding: 10px 15px;
+	background-color: #C00;
+}
+#right div.member div.head h1 {
+	margin: 0;
+	font-weight: normal;
+	color: #FFF;
+}
+
+#right div.member div.body {
+	padding: 1px 20px 15px 20px;
+	background-color: #EEE;
+}
+
+#right div.member div.foot {	
+	padding: 10px 20px;
+	background-color: #DDD;
+}
+#right div.member div.foot h2 {
+	margin: 0;	
+}
+
+#right div.member h2 {
+	font-size: 1.1em;
+	line-height: 1.5em;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+#right div.member ul {
+	padding-left: 20px;
+	font-size: 1.2em;
+	list-style: square;
+	color: #B00900;
+}
+
+#right div.member ul li {
+	padding-top: 0;
+	margin-bottom: 5px;
+	line-height: 1.2em;
+}
+
+#right div.member ul li a {
+	border-bottom: none;
+	margin: 0;
+	padding: 0;
+}
+
+/**** CUSTOM SIDEBAR CSS ****/
+#right div.trigger{width:100%;background:url('boxright-prof-loc.jpg') no-repeat;}
+#right div.trigger.active{background-position:left bottom;}
+#right div.trigger_container{width:292px;}
+
+/* Profile Page (profile.php) Sidebar Helpdesk Form */
+#right table.profile-sideform {
+	font-size: 14px;
+	line-height: 1.2em;
+	width: 100%;
+}
+#right table.profile-sideform .btn {
+	font-size: 1.2em;
+}
+#right table.profile-sideform .btn {
+	padding: 0.5em 1em;
+}
+#right table.profile-sideform tr td {
+	padding: 5px 0;
+}
+#right table.profile-sideform input, #right table.profile-sideform textarea {
+	border: 1px solid #CCC;
+	width: 100%;
+	padding: 0.5em 1em;
+	font-size: 1em;
+}
+#right #sidebar-contact {
+	font-size: 0.9em;
+	padding: 15px;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #EEE;
+}
+#right #sidebar-contactform {
+	padding: 10px 15px;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #FFE;
+}
