@@ -1,24 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebApplication", ".", "{54171436-6BD5-451F-B66C-3E7560C95890}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StudyMal", ".", "{54171436-6BD5-451F-B66C-3E7560C95890}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
 		Debug.AspNetCompiler.VirtualPath = "/V2"
-		Debug.AspNetCompiler.PhysicalPath = "..\WebApplication\"
+		Debug.AspNetCompiler.PhysicalPath = "..\StudyMal\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\V2\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/V2"
-		Release.AspNetCompiler.PhysicalPath = "..\WebApplication\"
+		Release.AspNetCompiler.PhysicalPath = "..\StudyMal\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\V2\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "39312"
+		VWDPort = "10530"
 	EndProjectSection
 EndProject
 Global

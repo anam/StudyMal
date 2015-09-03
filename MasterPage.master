@@ -759,11 +759,7 @@ the fashion gala organised by ...</p></div></li>					</ul>
 <div class="box ads"><h1>Advertisement</h1>
 	
 <!-- /6751520/SMO-336x280-2 -->
-<div id="div-gpt-ad-1435209119256-1" style="height:280px; width:336px; margin-bottom:10px;">
-<script type="text/javascript">
-    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1435209119256-1'); });
-</script>
-<div style="border: 0pt none;" id="google_ads_iframe_/6751520/SMO-336x280-2_0__container__"><iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0" scrolling="no" name="google_ads_iframe_/6751520/SMO-336x280-2_0" id="google_ads_iframe_/6751520/SMO-336x280-2_0" frameborder="0" height="280" width="336"></iframe></div><iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px none; vertical-align: bottom; visibility: hidden; display: none;" marginheight="0" marginwidth="0" scrolling="no" name="google_ads_iframe_/6751520/SMO-336x280-2_0__hidden__" id="google_ads_iframe_/6751520/SMO-336x280-2_0__hidden__" frameborder="0" height="0" width="0"></iframe></div>
+
 
 <!-- /6751520/SMO-336x280 -->
 <div id="div-gpt-ad-1435209119256-0" style="height:280px; width:336px; margin-bottom: 10px;">
@@ -820,7 +816,7 @@ the fashion gala organised by ...</p></div></li>					</ul>
                                         <li><a href="http://spsgroupbd.com/">Applying &amp; Entering Malaysia to Study</a></li>
                                         <li><a href="http://spsgroupbd.com/">Career Guide</a></li>
 									</ul>
-                                    <a href="http://spsgroupbd.com/" target="_blank"><img class="centered" style="border:none;margin-top:5px" src="resources/studymalaysia-exhibition-fair.png" title="StudyMalaysia Exhibition" alt="StudyMalaysia Exhibition" height="62" border="0" width="240"></a>
+                                    <%--<a href="http://spsgroupbd.com/" target="_blank"><img class="centered" style="border:none;margin-top:5px" src="resources/studymalaysia-exhibition-fair.png" title="StudyMalaysia Exhibition" alt="StudyMalaysia Exhibition" height="62" border="0" width="240"></a>--%>
 								</div>
                                               
 								<div class="col-wide">
@@ -887,7 +883,7 @@ the fashion gala organised by ...</p></div></li>					</ul>
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=129037703911625";
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=129037703211625";
         fjs.parentNode.insertBefore(js, fjs);
     } (document, 'script', 'facebook-jssdk'));</script>
 <!-- End New Facebook Page Plugin -->	
@@ -903,7 +899,7 @@ the fashion gala organised by ...</p></div></li>					</ul>
 		<a href="javascript:void(0);" class="closeLink"><img src="resources/close.png"></a>
 		<div class="overlayContent">
 			<div class="splash_left">
-				<%--<img src="resources/splash-banner.jpg" title="Welcome to spsgroupbd.com" alt="Welcome to spsgroupbd.com">--%>
+				<img src="resources/splash-banner.jpg" title="Welcome to spsgroupbd.com" alt="Welcome to spsgroupbd.com">
 				<div style="height:340px;width:620px"></div>
                 <div class="blackbox">
 					<div class="wrap">
