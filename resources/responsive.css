@@ -247,7 +247,7 @@
 	#left div.row div.home-box.white div.buttons a#listbtn-grid{display:none;}
 	#left .tiny-menu{width:auto;}
 
-	#mobile-footer{background-color:#D30E00;padding:20px 0;width:100%;text-align:center;}
+	#mobile-footer{background-color:#5A6184;padding:20px 0;width:100%;text-align:center;}
 	#mobile-footer div.mobile_newsletter form input[type="email"]{border:0;line-height:25px;font-size:12px;width:auto;padding:0 5px;}
 	#mobile-footer div.mobile_newsletter form input[type="submit"]{border: 0px;padding: 2px 10px 1px;margin-left: -3px;background-color: yellow;font-weight: bold;font-size: 12px;text-transform: uppercase;height:25px;}	
 	#mobile-footer div.mobile_copyrights{width:100%;line-height:40px;}

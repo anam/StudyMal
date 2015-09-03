@@ -56,7 +56,7 @@ img.centerednb {display:block;margin-left:auto;margin-right:auto;padding:5px;}
 
 .news span#filed {float:left;font-size:1em;margin-bottom:10px;}
 
-.news a#link {float:right;display:block;background:#D30E00;color:#FFF;padding:5px 8px;}
+.news a#link {float:right;display:block;background:#5A6184;color:#FFF;padding:5px 8px;}
 
 .news a {text-decoration:none;}
 
@@ -182,9 +182,9 @@ a {color:#B00900;text-decoration:none;}
 
 .col h3 {margin-bottom:.4em;}
 
-.col h3 a:hover,.excerpt h3 a:hover,#logofocus h2,.logofocus h2 {color:#D30E00;}
+.col h3 a:hover,.excerpt h3 a:hover,#logofocus h2,.logofocus h2 {color:#5A6184;}
 
-#foot,#logofocus .links .selected,.logofocus .links .selected {background-color:#D30E00;}
+#foot,#logofocus .links .selected,.logofocus .links .selected {background-color:#5A6184;}
 
 #webway {margin:1em;}
 
@@ -408,7 +408,7 @@ ol,ul,#foot ul,#copyright ul li,#menudrop_gallery ul,#menudrop_gallery li {list-
 
 .news .image,.whattostudy .image {text-align:left !important;background:transparent !important;border:0;float:left;margin-top:0;margin-right:20px;padding:0;}
 
-.news h2,.whattostudy h2,.whattostudy-red h2,.excerpt h2 {margin-top:0;font-size:24px;text-decoration:none;font-weight:700;color:#D30E00;}
+.news h2,.whattostudy h2,.whattostudy-red h2,.excerpt h2 {margin-top:0;font-size:24px;text-decoration:none;font-weight:700;color:#5A6184;}
 
 .whattostudy .text,.whattostudy-red .text {float:left;width:95%;}
 
@@ -418,7 +418,7 @@ ol,ul,#foot ul,#copyright ul li,#menudrop_gallery ul,#menudrop_gallery li {list-
 
 .whattostudy-red p strong,#left p strong {font-weight:700;color:#222;}
 
-#foot a:hover,#foot .col a:hover,.col-wide a:hover {background-color:#B40C00;color:#FFF !important;}
+#foot a:hover,#foot .col a:hover,.col-wide a:hover {background-color:#9CA2C6;color:#FFF !important;}
 
 #menu li,#webway li {display:inline;}
 
@@ -436,7 +436,7 @@ a:hover,.result_title a:hover,.result_title_feat a:hover .result_row_inst a:hove
 
 #main,#foot-in {width:980px;margin:0 auto;}
 
-#foot .col a,#foot .col-wide a {text-decoration:none;border-bottom:1px solid #DE4A40;display:block;padding:.5em .3em;}
+#foot .col a,#foot .col-wide a {text-decoration:none;border-bottom:1px solid #FFF;display:block;padding:.5em .3em;}
 
 /*Name: Sliding Login Panel with jQuery 1.3.2 (mod. 1.2.6)
 

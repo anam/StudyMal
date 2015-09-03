@@ -616,7 +616,7 @@ career options most suited for you.</p>
 		</div>
 	</div>
 	
-	<div class="row">
+	<div class="row" style="display:none;">
 		<div class="box">
 			<div class="home-box blue">
 				<div class="head">
@@ -683,7 +683,7 @@ supply chain in developing future leaders for the country.</p></div></li>
 	
 	<div class="space"></div>
 	
-	<div class="row">
+	<div class="row"  style="display:none;">
 		<div class="box">
 			<div class="home-box white">
 				<div class="head">
@@ -903,8 +903,9 @@ the fashion gala organised by ...</p></div></li>					</ul>
 		<a href="javascript:void(0);" class="closeLink"><img src="resources/close.png"></a>
 		<div class="overlayContent">
 			<div class="splash_left">
-				<img src="resources/splash-banner.jpg" title="Welcome to spsgroupbd.com" alt="Welcome to spsgroupbd.com">
-				<div class="blackbox">
+				<%--<img src="resources/splash-banner.jpg" title="Welcome to spsgroupbd.com" alt="Welcome to spsgroupbd.com">--%>
+				<div style="height:340px;width:620px"></div>
+                <div class="blackbox">
 					<div class="wrap">
 						<h1>Undergraduate</h1>
 						This channel is useful for students looking for further studies in any of the following education levels:
