@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Malaysia's Premier Education Resource Guide Online - spsgroupbd.com </title>
+<title>www.spsgroupbd.com </title>
 <meta name="author" content="WebWay E Services">
 <meta name="keywords" content="malaysia, malaysian, colleges, universities, study malaysia, private university, public university, education, malaysian education, education in malaysia, primary, secondary, pre-u, undergraduate,  higher education, study, scholarship, training, skill training, degree, diploma, certificate, postgraduate, career guide achievement, Institutions, college, kolej, institut, education guide, IPTA, IPTS, IPS, universiti, private education, public education, studies, duration, tertiary education, study in Malaysia, profile of Malaysia, Ministry of Higher Education, MQA, LAN, MAPCU, NAPEI, overseas education">
 <meta name="description" content="Malaysia's Premier Education Resource Guide Online. Study Malaysia Online provides comprehensive information on higher education system, various higher educational institutions, public universities, private universities, colleges, schools, foreign universities in Malaysia, the courses offered at certificate, pre-university, diploma, bachelor's and postgraduate levels, study loan, scholarships, other education financing, career guide, study abroad, news in the education. Also available are information on tourism, economy of Malaysia, Ministry of Higher Education, Malaysian Qualifications Agency, LAN, MQA, Education Associations, MAPCU, NAPEI, international students, who is who in Malaysian education, immigration procedures, institution search and course search.">
@@ -820,12 +820,33 @@ the fashion gala organised by ...</p></div></li>					</ul>
 								</div>
                                               
 								<div class="col-wide">
-									<h4><a>About This Website</a></h4>
-									<p>Copyright © 1998-2015<br>Webway E Services Sdn Bhd.<br>
-									60-3, Jalan PJU 1/3B, <br>Sunwaymas Commercial Centre,<br>47301 Petaling Jaya, Selangor, Malaysia. <br>
-									Tel: <span class="skype_c2c_print_container notranslate">+603-7880 3837</span><span id="skype_c2c_container" class="skype_c2c_container notranslate" dir="ltr" tabindex="-1" onmouseover="SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)" onmouseout="SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)" onclick="SkypeClick2Call.MenuInjectionHandler.makeCall(this, event)" data-numbertocall="+60378803837" data-numbertype="paid" data-isfreecall="false" data-isrtl="false" data-ismobile="false"><span class="skype_c2c_highlighting_inactive_common" dir="ltr" skypeaction="skype_dropdown"><span class="skype_c2c_textarea_span" id="non_free_num_ui"><img class="skype_c2c_logo_img" src="resources/call_skype_logo.png" height="0" width="0"><span class="skype_c2c_text_span">+603-7880 3837</span><span class="skype_c2c_free_text_span"></span></span></span></span> Fax: +603-7880 7837<br><a href="mailto:enquiry@spsgroupbd.com">enquiry@spsgroupbd.com</a></p>
+									<h4><a>Contact US</a></h4>
+									<p>
+A-2-6, Block- A, Menara Uncang Emas
+<br />
+Jalan Loke Yew, Cheras
+<br />
+55200 Kuala Lampur, Malaysia<br>
 
-									<div class="footer_newsletter">
+                                    Tel : +6 0392822000 , Fax : +6 0392213001
+<br />
+Mobile :  
+
+        +6 010 2659 347 (Marketing )
+<br />
+        +6 017 6562 967 (Accounts)
+<br />
+        +6 017 6562 951 (Operations)
+<br />
+        +6 017 6562 952 ( Admission)
+
+<br />
+
+Email : soheltmc@gmail.com
+
+                                    </p>
+
+									<div class="footer_newsletter" style="display:none;">
 										<h4><a>Newsletter Subscription</a></h4>
 										<form name="smo_news" action="/newsletter/" method="post">
 											<input name="email" placeholder="Enter Your Email" maxlength="50" required="" type="text">
