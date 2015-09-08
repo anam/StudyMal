@@ -7,9 +7,10 @@
 	width:850px;
 	height:500px;
 	/* height:300px; */
-	background:#9c0001;
-	background-image: linear-gradient(#cc0001, #9c0001);
+	background:#5a6184;
+	/*background-image: linear-gradient(#cc0001, #9c0001);*/
 	z-index:9999;
+	border:1px solid white;
 }
 .overlayContent {
 	/* padding:10px; */
